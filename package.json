@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "lint": "eslint"
+  },
   "devDependencies": {
     "@types/react": "^16.9.11",
     "@typescript-eslint/eslint-plugin": "^2.7.0",

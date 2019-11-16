@@ -25,7 +25,9 @@ module.exports = {
                     ".tsx"
                 ]
             },
-            "typescript": { }
+            "typescript": {
+                "directory": "packages/*/tsconfig.json"
+            }
         }
     },
     "rules": {
