@@ -26,7 +26,7 @@ module.exports = {
                 ]
             },
             "typescript": {
-                "directory": "packages/*/tsconfig.json"
+                "directory": ["packages/*/tsconfig.json", "tsconfig.json"]
             }
         }
     },
